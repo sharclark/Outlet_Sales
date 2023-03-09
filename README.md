@@ -11,13 +11,13 @@ Shar Clark
    - During EDA, a histogram and a heatmap were visualized for the data set. The histogram showed the most common weight of the items. The heatmap showed the correlations between columns.
    -  This gave us direction on what column relationships to study further. Item MRP and outlet sales had the highest positive correlation.
   
- [INSERT HEATMAP]
- 
+<img width="473" alt="Screen Shot 2023-03-09 at 12 55 23 PM" src="https://user-images.githubusercontent.com/123594410/224170533-1843f604-fece-4b12-b652-30498bf64277.png">
+
  **Explanatory Data Analysis**
    - In order to visualize the data, I created two bargraphs. One comparing outlet sales to outlet types. I concluded that the Medium sized stores had the highest sales. I took a closer look at medium sized stores and noticed that visibility had a direct correlation to higher outlet sales.
   
-  [INSERT STACKED GRAPH]
-  
+ <img width="570" alt="Screen Shot 2023-03-09 at 1 14 03 PM" src="https://user-images.githubusercontent.com/123594410/224170679-7644d67f-c1f3-4113-9f99-8aff1310dd8e.png">
+
   ### Machine Learning using the following models:
    - Linear Regression Model
    - Decision Tree Model
